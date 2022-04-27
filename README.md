@@ -1,2 +1,2 @@
 # adityaPortfolio
-link:-https://bmanishjyala.github.io/adityaPortfolio/
+link:-https://aditdes.github.io/portfolio/
